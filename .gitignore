@@ -3,3 +3,6 @@
 
 # IntelliJ
 .idea
+
+# Java bytecode
+target/**
